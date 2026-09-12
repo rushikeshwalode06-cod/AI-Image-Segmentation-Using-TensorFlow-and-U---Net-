@@ -25,6 +25,7 @@ The complete pipeline includes:
 📈 Visualization of Results
 
 ---
+![ml](https://github.com/rushikeshwalode06-cod/AI-Image-Segmentation-Using-TensorFlow-and-U---Net-/blob/main/AI%20Image%20Segmentation%20iamge.png?raw=true)
 
 ## 🎯 Objective
 
