@@ -14,15 +14,15 @@ In this project, a **U-Net architecture** is implemented using TensorFlow to per
 
 The complete pipeline includes:
 
-📂 Dataset Loading
-🧹 Image & Mask Preprocessing
-🔄 Image Resizing & Normalization
-🎭 Binary Mask Generation
-🏗️ U-Net Model Construction
-🧠 Model Training
-📊 Model Evaluation
-🔍 Image Segmentation Prediction
-📈 Visualization of Results
+* 📂 Dataset Loading
+* 🧹 Image & Mask Preprocessing
+* 🔄 Image Resizing & Normalization
+* 🎭 Binary Mask Generation
+* 🏗️ U-Net Model Construction
+* 🧠 Model Training
+* 📊 Model Evaluation
+* 🔍 Image Segmentation Prediction
+* 📈 Visualization of Results
 
 ---
 ![ml](https://github.com/rushikeshwalode06-cod/AI-Image-Segmentation-Using-TensorFlow-and-U---Net-/blob/main/AI%20Image%20Segmentation%20iamge.png?raw=true)
