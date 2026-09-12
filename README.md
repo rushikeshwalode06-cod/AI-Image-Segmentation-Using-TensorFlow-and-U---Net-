@@ -1,9 +1,6 @@
-# AI-Image-Segmentation-Using-TensorFlow-and-U---Net-
-Built an AI-based image segmentation system using TensorFlow and a U-Net deep learning architecture. The project uses the Oxford-IIIT Pet dataset, performs image preprocessing and binary mask generation, trains with Dice + Binary Cross-Entropy loss, and evaluates segmentation using Dice and IoU metrics with real-time prediction and visualization.
-
 # 🐾 AI Image Segmentation Using TensorFlow & U-Net
 
-An AI-based image segmentation project that uses **TensorFlow** and a custom **U-Net deep learning architecture** to perform pixel-level image segmentation on the **Oxford-IIIT Pet Dataset**.
+An AI-based image segmentation project that uses **TensorFlow** and a custom **U-Net deep learning architecture** to perform pixel-level image segmentation on the **Oxford-IIIT Pet Dataset**. The project uses the Oxford-IIIT Pet dataset, performs image preprocessing and binary mask generation, trains with Dice + Binary Cross-Entropy loss, and evaluates segmentation using Dice and IoU metrics with real-time prediction and visualization.
 
 The model identifies the foreground object from an image and generates a binary segmentation mask separating the **pet/object from the background**.
 
@@ -236,28 +233,28 @@ These visualizations help compare the model prediction with the actual ground-tr
 
 ### 🐍 Programming Language
 
-* **Python**
+* Python
 
 ### 🤖 Deep Learning
 
-* **TensorFlow**
-* **U-Net**
-* **Convolutional Neural Networks (CNN)**
+* TensorFlow
+* U-Net
+* Convolutional Neural Networks (CNN)
 
 ### 🖼️ Computer Vision
 
-* **Image Segmentation**
-* **Binary Mask Generation**
-* **Image Preprocessing**
+* Image Segmentation
+* Binary Mask Generation
+* Image Preprocessing
 
 ### 📊 Dataset & Data Processing
 
-* **TensorFlow Datasets (TFDS)**
-* **NumPy**
+* TensorFlow Datasets (TFDS)
+* NumPy
 
 ### 📈 Visualization
 
-* **Matplotlib**
+* Matplotlib
 
 ---
 
@@ -297,6 +294,3 @@ By combining image preprocessing, binary mask generation, U-Net architecture, Di
 
 The project also demonstrates how segmentation predictions can be visualized and analyzed against ground-truth masks.
 
----
-
-⭐ **If you find this project useful, consider giving it a star!**
