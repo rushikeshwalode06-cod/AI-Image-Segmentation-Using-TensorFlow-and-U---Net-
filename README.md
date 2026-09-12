@@ -1,0 +1,2 @@
+# AI-Image-Segmentation-Using-TensorFlow-and-U---Net-
+Built an AI-based image segmentation system using TensorFlow and a U-Net deep learning architecture. The project uses the Oxford-IIIT Pet dataset, performs image preprocessing and binary mask generation, trains with Dice + Binary Cross-Entropy loss, and evaluates segmentation using Dice and IoU metrics with real-time prediction and visualization.
