@@ -295,3 +295,5 @@ By combining image preprocessing, binary mask generation, U-Net architecture, Di
 
 The project also demonstrates how segmentation predictions can be visualized and analyzed against ground-truth masks.
 
+![ml](https://github.com/rushikeshwalode06-cod/AI-Image-Segmentation-Using-TensorFlow-and-U---Net-/blob/main/AI%20Image%20Segmentation%20Image%20(1).png?raw=true)
+
